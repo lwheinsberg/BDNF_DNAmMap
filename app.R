@@ -342,7 +342,7 @@ ui <- dashboardPage(
               p("Developers: Provides names and contact information for the application developers.",style = "font-size:15px"),
               p("More details can be found within the application pages. Please note the figures in this application were created using ggplotly() which allows users to zoom into different sections and hover over objects to display text with exon label or CpG site position.",style = "font-size:15px"),
               p(a("Video instructions"),style = "font-size:25px"),
-              p("A brief video tutorial has been created and is available at [LINK TO BE ADDED].",style = "font-size:15px"),               
+              p("A brief video tutorial has been created and is available at https://www.youtube.com/watch?v=1qEwysAbmCQ.",style = "font-size:15px"),               
       ),
       # Page 2 ----
       tabItem(tabName = "page2", 

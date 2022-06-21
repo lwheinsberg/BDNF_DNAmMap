@@ -77,7 +77,9 @@ requires no R software or code.
 
 # Instructions for use
 
-Instructions for use are located within the application.
+Instructions for use are located within the application. A 
+[video tutorial](https://www.youtube.com/watch?v=1qEwysAbmCQ) 
+is also available. 
 
 # Developers
 
