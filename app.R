@@ -284,8 +284,8 @@ names(df2)[x] <- "Stop Position (hg19)"
 x <- which(names(df2)=="First.Author")
 names(df2)[x] <- "First Author (Year)"
 # Change code value from 1/2/3 to Significant, Non-significant, NA
-df2$Code[df2$Code==1] <- "Non-significant"
-df2$Code[df2$Code==2] <- "Significant"
+df2$Code[df2$Code==1] <- "NS"
+df2$Code[df2$Code==2] <- "Sig"
 df2$Code[df2$Code==3] <- "Not examined individually"
 head(df2)
 table_search <- df2 
