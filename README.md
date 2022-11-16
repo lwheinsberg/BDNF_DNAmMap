@@ -13,11 +13,11 @@ This repository contains R code used to create the BDNF DNA Methylation
 (DNAm) Map, a web-based shiny application developed to synthesize the
 results of a systematic review paper:
 
-Treble-Barna A, Heinsberg LW, Breazeale S, Davis TS, Stec Z, Kesbhat AA,
+Treble-Barna A, Heinsberg LW, Stec Z, Breazeale S, Davis TS, Kesbhat AA,
 Chattopadhyay A, VonVille HM, Ketchum AM, Yeates KO, Kochanek PM, Weeks
 DE, Conley YP. Brain-Derived Neurotrophic Factor (BDNF) Epigenomic
 Modifications and Brain-Related Phenotypes in Humans: A Systematic
-Review. (LINK TO BE ADDED UPON PUBLICATION).
+Review. medRxiv: https://doi.org/10.1101/2022.09.13.22279723.
 
 The purpose of this paper was to systematically review studies that
 investigated BDNF epigenomic modifications in association with
