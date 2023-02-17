@@ -14,10 +14,14 @@ This repository contains R code used to create the BDNF DNA Methylation
 results of a systematic review paper:
 
 Treble-Barna A, Heinsberg LW, Stec Z, Breazeale S, Davis TS, Kesbhat AA,
-Chattopadhyay A, VonVille HM, Ketchum AM, Yeates KO, Kochanek PM, Weeks
-DE, Conley YP. Brain-Derived Neurotrophic Factor (BDNF) Epigenomic
-Modifications and Brain-Related Phenotypes in Humans: A Systematic
-Review. medRxiv: https://doi.org/10.1101/2022.09.13.22279723.
+Chattopadhyay A, VonVille HM, Ketchum AM, Yeates KO, Kochanek PM, 
+Weeks DE, Conley YP. Brain-Derived Neurotrophic Factor (BDNF) Epigenomic
+Modifications and Brain-Related Phenotypes in Humans: A Systematic Review.
+Neurosci Biobehav Rev. 2023 Feb 8:105078. 
+doi: 10.1016/j.neubiorev.2023.105078. 
+Epub ahead of print. PMID: 36764636.
+https://pubmed.ncbi.nlm.nih.gov/36764636/
+https://www.sciencedirect.com/journal/neuroscience-and-biobehavioral-reviews
 
 The purpose of this paper was to systematically review studies that
 investigated BDNF epigenomic modifications in association with
