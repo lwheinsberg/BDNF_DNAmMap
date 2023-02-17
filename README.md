@@ -19,9 +19,9 @@ Weeks DE, Conley YP. Brain-Derived Neurotrophic Factor (BDNF) Epigenomic
 Modifications and Brain-Related Phenotypes in Humans: A Systematic Review.
 Neurosci Biobehav Rev. 2023 Feb 8:105078. 
 doi: 10.1016/j.neubiorev.2023.105078. 
-Epub ahead of print. PMID: 36764636.
-https://pubmed.ncbi.nlm.nih.gov/36764636/
-https://www.sciencedirect.com/journal/neuroscience-and-biobehavioral-reviews
+Epub ahead of print. PMID: 36764636.                
+https://pubmed.ncbi.nlm.nih.gov/36764636/                  
+https://www.sciencedirect.com/science/article/pii/S0149763423000477?via%3Dihub
 
 The purpose of this paper was to systematically review studies that
 investigated BDNF epigenomic modifications in association with

@@ -383,7 +383,7 @@ ui <- dashboardPage(
               p(a("Lacey W. Heinsberg, PhD, RN", href="https://github.com/lwheinsberg", target="_blank"),style = "font-size:18px"),
               p(a("Daniel E. Weeks, PhD", href="https://publichealth.pitt.edu/home/directory/daniel-e-weeks", target="_blank"),style = "font-size:18px"),
               p("For additional help or to submit feedback or bug reports, please contact Lacey Heinsberg at law145@pitt.edu.", style = "font-size:15px"),
-              p("Note this application could not function without the accompanying database curated by Amery Treble-Barna and her team which included Lacey Heinsberg, Tara Davis, Stephen Breazeale, Zachary Stec, Aboli Kesbhat, Julia Tefs, and Ansuman Chattopadhyay. This curation took a great deal of collaborative effort and many many many hours of work. The paper that summarizes this effort can be found at https://www.sciencedirect.com/journal/neuroscience-and-biobehavioral-reviews.", style = "font-size:15px"),
+              p("Note this application could not function without the accompanying database curated by Amery Treble-Barna and her team which included Lacey Heinsberg, Tara Davis, Stephen Breazeale, Zachary Stec, Aboli Kesbhat, Julia Tefs, and Ansuman Chattopadhyay. This curation took a great deal of collaborative effort and many many many hours of work. The paper that summarizes this effort can be found at https://www.sciencedirect.com/science/article/pii/S0149763423000477?via%3Dihub.", style = "font-size:15px"),
       )
     )
   )
